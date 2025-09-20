@@ -68,4 +68,3 @@
 
 ---
 
-Do you want me to also **add pipeline diagrams (like ASCII/Markdown flowchart)** for AgroSetu’s CNN + Random Forest workflows, similar to the other project’s README?
