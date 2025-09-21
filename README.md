@@ -64,6 +64,7 @@
 * Add **multilingual support** (Marathi, Hindi, English).
 * Integrate **weather API + soil sensors** for real-time recommendations.
 * Expand disease classification dataset for more crops.
+* Add severity detection model.
 * Deploy mobile-first app version.
 
 ---
